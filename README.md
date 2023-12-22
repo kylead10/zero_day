@@ -1,1 +1,1 @@
-#My alx devop project. Using terminal (vagra
+#My alx devop project. Using terminal (vagrant
