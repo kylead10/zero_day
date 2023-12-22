@@ -1,1 +1,1 @@
-#My alx devop project. using 
+#My alx devop project. using terminal
