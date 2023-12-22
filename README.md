@@ -1,1 +1,1 @@
-#My alx devop project. Lea  terminal (vagrant).
+#My alx devop project. Learning  terminal (vagrant).
