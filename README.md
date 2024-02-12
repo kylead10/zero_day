@@ -1,1 +1,1 @@
-#My alx devop proje. Learning about terminal (vagrant).
+#My alx devop pro. Learning about terminal (vagrant).
